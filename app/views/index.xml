@@ -1,0 +1,14 @@
+<Alloy>
+	<TabGroup>
+		<Tab title="Theme">
+			<Window>
+				<Label>I am Window 1</Label>
+			</Window>
+		</Tab>
+		<Tab title='Controls'>
+			<Window>
+				<Label>I am Window 2</Label>
+			</Window>
+		</Tab>
+	</TabGroup>
+</Alloy>

@@ -1,8 +1,8 @@
-#appname: MaterialWorld
-#publisher: adam
-#url: http://polancomedia.com
-#image: appicon.png
-#appid: com.polancomedia.materialworld
-#desc: undefined
-#type: mobile
-#guid: c7a08c45-8539-4887-9333-33daf49086d8
+#appname:MaterialWorld
+#publisher:adam
+#url:http://polancomedia.com
+#image:appicon.png
+#appid:com.polancomedia.materialworld
+#desc:Material theme demo.
+#type:mobile
+#guid:c7a08c45-8539-4887-9333-33daf49086d8

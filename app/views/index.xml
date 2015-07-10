@@ -1,5 +1,9 @@
 <Alloy>
 	<TabGroup>
+		<ActionBar platform='android' title='Living in the Material World' onHomeIconItemSelected='homeClicked' />
+		<Menu platform='android'>
+			<MenuItem title='Test' />
+		</Menu>
 		<Tab title="Theme">
 			<Window>
 				<Label>I am Window 1</Label>
